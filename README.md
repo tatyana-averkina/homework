@@ -6,7 +6,7 @@
  </head>
  <body>
   <h1>Averkina Tanya</h1>	
-  <img scr= "nU62FOJsYTs.jpg" width="15"</img><br>
+  <img src= "https://sun9-31.userapi.com/god6fHc5XFCCnw6MXJ5mEGt4v9RJHxgEb3MKJw/nU62FOJsYTs.jpg" width="200" height="200"</img><br>
   <h2>contacts:</h2>
   Page <a href="https://vk.com/averkinaaa">vkontakte</a><br>
   <a href="https://github.com/tatyana-averkina">GitHub</a><br>
